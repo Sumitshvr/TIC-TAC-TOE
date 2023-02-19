@@ -2,7 +2,7 @@
 This code is basically my mini project 
 As u know Tic Tac Toe is a famous game which we played in our young age and still it's craze is not over.
 So i represent this game play enjoy it.
-This game is bieng Programmed in c++,java,javascript,html,c#,css
+This game is bieng Programmed in c++,java,javascript,html,css
 Follow the steps to reach for this game and code
 1.Dowload the file from my repositry
 2.Unzip the folder or extract it.
